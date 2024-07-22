@@ -27,6 +27,12 @@ This project explores the integration of CLIP (Contrastive Language–Image Pret
 
 In this project, we integrate CLIP, a powerful model for connecting text and images, with a VAE to generate and reconstruct images based on textual prompts. This approach leverages the semantic understanding of CLIP and the generative capabilities of VAE to explore new frontiers in computer vision and generative AI.
 
+# Architecture
+
+<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/img/overall_architecture.png">
+
+# Results
+
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstruction.gif">
 
 #### Query Image 1
