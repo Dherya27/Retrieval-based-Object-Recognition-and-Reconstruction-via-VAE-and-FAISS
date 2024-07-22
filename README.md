@@ -29,7 +29,7 @@ In this project, we integrate CLIP, a powerful model for connecting text and ima
 
 # Architecture
 
-<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/img/overall_architecture.png">
+<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/img/overall_architecrture.png">
 
 # Results
 
