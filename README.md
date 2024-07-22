@@ -36,13 +36,21 @@ In this project, we integrate CLIP, a powerful model for connecting text and ima
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstruction.gif">
 
 #### Query Image 1
-<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/query/2c304c54a6141d214ff3c6764341833_easy_04.png">
+<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/query/2c304c54a6141d214ff3c6764341833_easy_04.png" width="150" height="150">
 
-#### Retrieval(from FAISS VectorDB) based reconstruced Images(k=5)
+#### Retrieval-based Reconstructed Images (k=5) from FAISS VectorDB
 
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstructed_img/retrieval_based_reconstrcution_car1.png">
 
+#### Reconstruction by Manipulating Latent Space with Noise Injection
+<img src="https://github.com/Dherya27/Retrieval-based-Object-Recognition-and-Reconstruction-via-VAE-and-FAISS/blob/main/results/noise/car.png">
+
 #### Query Image 2
-<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/query/3f11833d3d9309bc9952c05a06935ddc_easy_02.png">
+<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/query/3f11833d3d9309bc9952c05a06935ddc_easy_02.png" width="150" height="150" >
+
+#### Retrieval-based Reconstructed Images (k=5) from FAISS VectorDB
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstructed_img/retrieval_based_reconstruction_chair_1.png">
+
+#### Reconstruction by Manipulating Latent Space with Noise Injection
+<img src="https://github.com/Dherya27/Retrieval-based-Object-Recognition-and-Reconstruction-via-VAE-and-FAISS/blob/main/results/noise/chair.png">
 
