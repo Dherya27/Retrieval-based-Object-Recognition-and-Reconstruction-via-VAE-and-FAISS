@@ -1,7 +1,7 @@
-# Enhancing-Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration
- Exploring Semantic Image Generation with Noise Effects
+# Retrieval-based-Object-Recognition-and-Reconstruction-via-VAE-and-FAISS
  
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-blue)
+![FAISS](https://img.shields.io/badge/FAISS-white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-green)
 ![CLIP](https://img.shields.io/badge/CLIP-Contrastive%20Language%20Image%20Pretraining-orange)
 ![vae](https://img.shields.io/badge/VAE-Variational%20Auto%20Encoder-white)
@@ -12,7 +12,9 @@
 
 Project Overview
 
-This project explores the integration of CLIP (Contrastive Language–Image Pretraining) with a Variational Autoencoder (VAE) for the dual tasks of object recognition and image reconstruction. By incorporating text queries and noise effects in the latent space, we aim to enhance the robustness and accuracy of object recognition and reconstruction.
+Among the most impactful technologies, retrieval-based methods and generative models have demonstrated remarkable capabilities in image retrieval, object recognition, and image reconstruction. This project, titled "Retrieval-based Object Recognition and Reconstruction via VAE and FAISS," aims to leverage these technologies to create a robust system capable of recognizing and reconstructing objects based on their latent representations.
+
+The core of this project lies in the integration of Variational Autoencoders (VAEs) with Facebook AI Similarity Search (FAISS). VAEs are powerful generative models that can learn to encode images into a continuous latent space, capturing essential features and structures. By manipulating these latent representations, VAEs can generate new images or reconstruct existing ones with high fidelity. FAISS, on the other hand, is a state-of-the-art library for efficient similarity search and clustering of high-dimensional vectors. It excels in quickly finding the most similar vectors within large datasets, making it ideal for image retrieval tasks.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -25,13 +27,21 @@ This project explores the integration of CLIP (Contrastive Language–Image Pret
   
 # Introduction
 
-In this project, we integrate CLIP, a powerful model for connecting text and images, with a VAE to generate and reconstruct images based on textual prompts. This approach leverages the semantic understanding of CLIP and the generative capabilities of VAE to explore new frontiers in computer vision and generative AI.
+This project introduces a novel approach where VAEs are used to encode images into latent vectors, which are then stored and organized using FAISS. When a query image is provided, its latent representation is computed and FAISS retrieves the most similar latent vectors from the dataset. These retrieved latent vectors are subsequently decoded by the VAE to reconstruct the corresponding images. Additionally, by manipulating the latent space with varying sigma values, the project explores the reconstruction of images with different levels of noise and variation, providing insights into the generative capabilities of VAEs.
+
+This project holds significant potential across various applications, including medical imaging, autonomous vehicles, robotics, e-commerce, and more, by addressing practical challenges and contributing to the advancement of AI technologies.
 
 # Architecture
 
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/img/overall_architecrture.png">
 
+# Installation and Usage
+
+
 # Results
+
+#### Training Plot
+<img src="https://github.com/Dherya27/Retrieval-based-Object-Recognition-and-Reconstruction-via-VAE-and-FAISS/blob/main/results/training_loss_plot.png" width="900" height="500">
 
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstruction.gif">
 
