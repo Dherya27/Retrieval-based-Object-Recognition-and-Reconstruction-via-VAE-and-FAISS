@@ -41,7 +41,7 @@ This project holds significant potential across various applications, including 
 # Results
 
 #### Training Plot
-<img src="https://github.com/Dherya27/Retrieval-based-Object-Recognition-and-Reconstruction-via-VAE-and-FAISS/blob/main/results/training_loss_plot.png" width="900" height="500">
+<img src="https://github.com/Dherya27/Retrieval-based-Object-Recognition-and-Reconstruction-via-VAE-and-FAISS/blob/main/results/training_loss_plot.png" width="900" height="400">
 
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstruction.gif">
 
