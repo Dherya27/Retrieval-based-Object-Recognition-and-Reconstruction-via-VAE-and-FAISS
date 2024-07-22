@@ -37,6 +37,6 @@ In this project, we integrate CLIP, a powerful model for connecting text and ima
 <img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstructed_img/retrieval_based_reconstrcution_car1.png">
 
 #### Query Image 2
-<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/query/3dac0fd995c747ab336e8bf2357c029a_easy_31.png">
-<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstructed_img/retrieval_based_reconstruction_chair.png">
+<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/query/3f11833d3d9309bc9952c05a06935ddc_easy_02.png">
+<img src="https://github.com/Dherya27/Object-Recognition-and-Reconstruction-through-CLIP-VAE-Integration/blob/main/results/reconstructed_img/retrieval_based_reconstruction_chair_1.png">
 
